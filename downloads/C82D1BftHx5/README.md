@@ -9,7 +9,7 @@
 | **Original File** | `C82D1BftHx5` |
 | **Size** | .84 MB |
 | **Status** | **Complete (100%)** |
-| **Password Protected** | **YES** |
+| **Password Protected** | **NO** |
 
 ---
 
@@ -25,7 +25,6 @@
 
 1. **Open** `C82D1BftHx5.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
 2. **Extract** the file
-3. Enter the password when prompted
 
 ---
 
